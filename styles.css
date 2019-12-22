@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f9f6f7;
+  color:#015668;
+  font-weight: bolder;
+
+}
+h1 {
+  width: 20%;
+  margin: 50px auto 0 auto;
+  font-family: 'Neucha', cursive;
+  font-size: 5.625rem;
+  color: #e8d4b4;
+  font-weight: bold;
+
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e8d4b4;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e8d4b4;
+}
+.top-container {
+  background-color: #f9f6f7;
+  padding-top: 100px;
+    padding-left: 20px;
+    position: relative;
+
+}
+.middle-container {
+  background-color: #f9f6f7;
+  padding-top: 50px;
+    padding-left: 20px;
+    position: relative;
+    background-color: #ffffff;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 650px;
+
+}
+.bottom-mountain{
+  display: inline-block;
+  position: relative;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 650px;
+  top: 25px;
+
+}
+.skill-row {
+  text-align: none;
+  line-height: 2;
+
+}
+
+.eatshorts{
+  width: 15%;
+}
+.gym {
+  width: 15%;
+}
+.Skills{}
